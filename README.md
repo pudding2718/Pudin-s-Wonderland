@@ -6,6 +6,45 @@ Welcome to **Pudin's Wonderland**, a magical place where imagination meets techn
 
 - **Interactive Experiences**: Engaging demos and projects that combine fun and functionality.
 - **Creative Implementations**: Innovative solutions and ideas brought to life through code.
+- **Challenging Boss Battles**: Face unique bosses with varying abilities at different levels.
+- **Health and Score System**: Manage health and earn points through gameplay.
+- **Immersive Audio**: Sound effects for actions like jumping, collecting coins, defeating enemies, and dying, along with unique music for each level.
+
+## 🦊 Gameplay Mechanics
+
+- **Main Character**: Pudin (the fox) starts with three hearts.
+  - Pudin loses one heart each time it gets hit by an enemy.
+  - Pudin can regain a heart by collecting a cherry if it has fewer than three hearts.
+  - Jumping on top of an enemy defeats it.
+
+- **Score System**:
+  - Gain **10 points** by collecting a cherry.
+  - Gain **10 points** by defeating an enemy.
+  - If Pudin collects a cherry while missing hearts, the cherry restores a heart instead of adding points.
+
+## 🐸 Enemies
+
+### Frog (Level 1 and above)
+- Moves between left and right boundaries, jumping periodically.
+- Uses a ground detection system to trigger jumps.
+- Can be defeated by jumping on top of it.
+
+![Frog](./screenshots/frog.GIF)
+
+### Eagle (Level 2 and above)
+- Patrols vertically between two set points (top and bottom).
+- Uses AI to dynamically reverse direction at boundaries, creating a challenging flight pattern.
+- Can be defeated by jumping on top of it.
+
+![Eagle](./screenshots/eagle.gif)
+
+### Final Boss (Level 3)
+- Combines AI and animations to switch behaviors periodically.
+- Moves based on the player's position, adding difficulty.
+- Takes three hits to defeat and has a health bar displayed on the screen.
+- Periodically pauses movement for dramatic attacks.
+
+![Final Boss](./screenshots/boss.gif)
 
 ## 🚀 Getting Started
 
