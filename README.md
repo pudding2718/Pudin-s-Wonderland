@@ -19,16 +19,16 @@ Welcome to **Pudin's Wonderland**, a magical place where imagination meets techn
 
 <p align="center">
   <figure style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="./screenshots/Pudin_idle.GIF" alt="Pudin idle" width="100"/>
     <figcaption>Idle Animation</figcaption>
+    <img src="./screenshots/Pudin_idle.GIF" alt="Pudin idle" width="100"/>
   </figure>
   <figure style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="./screenshots/Pudin_crouch.GIF" alt="Pudin crouch" width="100"/>
     <figcaption>Crouch Animation</figcaption>
+    <img src="./screenshots/Pudin_crouch.GIF" alt="Pudin crouch" width="100"/>
   </figure>
   <figure style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="./screenshots/Pudin_jump.GIF" alt="Pudin jump" width="100"/>
     <figcaption>Jump Animation</figcaption>
+    <img src="./screenshots/Pudin_jump.GIF" alt="Pudin jump" width="100"/>
   </figure>
 </p>
 
