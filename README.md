@@ -17,7 +17,7 @@ Welcome to **Pudin's Wonderland**, a magical place where imagination meets techn
   - Pudin can regain a heart by collecting a cherry if it has fewer than three hearts.
   - Jumping on top of an enemy defeats it.
 ![Pudin idle](./screenshots/Pudin_idle.GIF)
-![Pudin_crouch](./screenshots/Pudin_crouch.GIF.jpg)
+![Pudin_crouch](./screenshots/Pudin_crouch.GIF)
 ![Pudin_jump](./screenshots/Pudin_jump.GIF)
 
 - **Score System**:
