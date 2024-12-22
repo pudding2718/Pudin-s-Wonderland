@@ -18,9 +18,18 @@ Welcome to **Pudin's Wonderland**, a magical place where imagination meets techn
   - Jumping on top of an enemy defeats it.
 
 <p align="center">
-  <img src="./screenshots/Pudin_idle.GIF" alt="Pudin idle" width="100"/>
-  <img src="./screenshots/Pudin_crouch.GIF" alt="Pudin crouch" width="100"/>
-  <img src="./screenshots/Pudin_jump.GIF" alt="Pudin jump" width="100"/>
+  <figure style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="./screenshots/Pudin_idle.GIF" alt="Pudin idle" width="100"/>
+    <figcaption>Idle Animation</figcaption>
+  </figure>
+  <figure style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="./screenshots/Pudin_crouch.GIF" alt="Pudin crouch" width="100"/>
+    <figcaption>Crouch Animation</figcaption>
+  </figure>
+  <figure style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="./screenshots/Pudin_jump.GIF" alt="Pudin jump" width="100"/>
+    <figcaption>Jump Animation</figcaption>
+  </figure>
 </p>
 
 - **Score System**:
