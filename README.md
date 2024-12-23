@@ -36,7 +36,7 @@ Welcome to **Pudin's Wonderland**, a magical place where imagination meets techn
   - Gain **10 points** by collecting a cherry.
   <p align="left">
   <img src="./screenshots/cherry.GIF" alt="Cherry" width="100"/>
-</p>
+  </p>
   - Gain **10 points** by defeating an enemy.
   - If Pudin collects a cherry while missing hearts, the cherry restores a heart instead of adding points.
 
