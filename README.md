@@ -20,15 +20,15 @@ Welcome to **Pudin's Wonderland**, a magical place where imagination meets techn
 <p align="center">
   <figure style="display: inline-block; text-align: center; margin: 10px;">
     <figcaption>Idle Animation</figcaption>
-    <img src="./screenshots/Pudin_idle.GIF" alt="Pudin idle" width="100"/>
+    <img src="./screenshots/Pudin_idle.GIF" alt="Pudin Idle" width="100"/>
   </figure>
   <figure style="display: inline-block; text-align: center; margin: 10px;">
     <figcaption>Crouch Animation</figcaption>
-    <img src="./screenshots/Pudin_crouch.GIF" alt="Pudin crouch" width="100"/>
+    <img src="./screenshots/Pudin_crouch.GIF" alt="Pudin Crouch" width="100"/>
   </figure>
   <figure style="display: inline-block; text-align: center; margin: 10px;">
     <figcaption>Jump Animation</figcaption>
-    <img src="./screenshots/Pudin_jump.GIF" alt="Pudin jump" width="100"/>
+    <img src="./screenshots/Pudin_jump.GIF" alt="Pudin Jump" width="100"/>
   </figure>
 </p>
 
@@ -46,23 +46,37 @@ Welcome to **Pudin's Wonderland**, a magical place where imagination meets techn
 - Moves between left and right boundaries, jumping periodically.
 - Uses a ground detection system to trigger jumps.
 - Can be defeated by jumping on top of it.
-
-![Frog](./screenshots/frog.GIF)
+<p align="center">
+  <figure style="display: inline-block; text-align: center; margin: 10px;">
+    <figcaption>Frog Idle</figcaption>
+    <img src="./screenshots/frog.GIF" alt="Frog Idle" width="100"/>
+  </figure>
+</p>
 
 ### Eagle (Level 2 and above)
 - Patrols vertically between two set points (top and bottom).
 - Uses AI to dynamically reverse direction at boundaries, creating a challenging flight pattern.
 - Can be defeated by jumping on top of it.
+<p align="center">
+  <figure style="display: inline-block; text-align: center; margin: 10px;">
+    <figcaption>Eagle Idle</figcaption>
+    <img src="./screenshots/eagle.GIF" alt="Eagle Idle" width="100"/>
+  </figure>
+</p>
 
-![Eagle](./screenshots/eagle.GIF)
 
 ### Final Boss (Level 3)
 - Combines AI and animations to switch behaviors periodically.
 - Moves based on the player's position, adding difficulty.
 - Takes three hits to defeat and has a health bar displayed on the screen.
 - Periodically pauses movement for dramatic attacks.
+<p align="center">
+  <figure style="display: inline-block; text-align: center; margin: 10px;">
+    <figcaption>Boss Stage Change</figcaption>
+    <img src="./screenshots/boss.GIF" alt="Boss Stage Change" width="100"/>
+  </figure>
+</p>
 
-![Final Boss](./screenshots/boss.GIF)
 
 ## 🚀 Getting Started
 
