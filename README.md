@@ -98,13 +98,22 @@ The repository is organized into the following sections:
 ## 🖼️ Screenshots
 
 ### Level 1
-![Level 1](./assets/screenshots/level1.jpg)
+![Level 1](./screenshots/level-1.jpg)
 
 ### Level 2
-![Level 2](./assets/screenshots/level2.jpg)
+![Level 2](./screenshots/level-2.jpg)
 
 ### Level 3
-![Level 3](./assets/screenshots/level3.jpg)
+![Level 3](./screenshots/level-3.jpg)
+
+### Main Page
+![main](./screenshots/main.jpg)
+
+### Pause Page
+![pause](./screenshots/pause.jpg)
+
+### Setting Page
+![setting](./screenshots/setting.jpg)
 
 ---
 
